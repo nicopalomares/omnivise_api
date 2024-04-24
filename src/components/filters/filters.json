@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_filters_filters",
+  "info": {
+    "displayName": "where",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "colombia": {
+      "type": "boolean"
+    },
+    "argentina": {
+      "type": "boolean"
+    }
+  }
+}

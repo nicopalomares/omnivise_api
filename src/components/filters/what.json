@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_filters_whats",
+  "info": {
+    "displayName": "what"
+  },
+  "options": {},
+  "attributes": {
+    "turbine": {
+      "type": "boolean"
+    },
+    "ventilator": {
+      "type": "boolean"
+    }
+  }
+}
